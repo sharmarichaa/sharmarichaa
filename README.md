@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Richaa%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Engineer%20in%20the%20Making%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </div>
-<div align="center">
+
 
 <div align="center">
 
