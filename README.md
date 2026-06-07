@@ -1,16 +1,15 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Richaa%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Richaa%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Engineer%20in%20the%20Making%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </div>
+<div align="center">
 
 <div align="center">
 
 | 🏆 Achievement | 📋 Details |
 |---|---|
 | 🇮🇳 **Smart India Hackathon 2025** | National Finalist — Top 75 of 950+ teams (Top 8%) • Project Lead |
-| 🔐 **VIT Bhopal** | B.Tech CSE — Cybersecurity & Digital Forensics, 2024–2028 |
 | 🛡️ **SuRaksha Hackathon** | Shortlisted for Prototype Phase (top 135) — DocuScan • Project Lead |
+| 🔐 **VIT Bhopal** | B.Tech CSE — Cybersecurity & Digital Forensics, 2024–2028 |
 | 🌐 **Certifications** | NPTEL • VITyarthi • HackerRank |
 
 </div>
