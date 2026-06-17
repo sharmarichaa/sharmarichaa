@@ -16,12 +16,12 @@ Richaa sharma = {
 ---
 <div align="center">
 
-| 🏆 Achievement | 📋 Details |
+| 🏆 Experience | 📋 Details |
 |---|---|
 | 🇮🇳 **Smart India Hackathon 2025** | National Finalist — Top 75 of 950+ teams (Top 8%) • Project Lead |
 | 🛡️ **SuRaksha Hackathon** | Shortlisted for Prototype Phase (top 135) — DocuScan • Project Lead |
 | 🔐 **VIT Bhopal** | B.Tech CSE — Cybersecurity & Digital Forensics, 2024–2028 |
-| 🌐 **Certifications** | NPTEL • VITyarthi • HackerRank |
+| 🌐 **Certifications** | NPTEL • VITyarthi • HackerRank • coursera|
 
 </div>
 
