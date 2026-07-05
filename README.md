@@ -16,7 +16,7 @@ Richaa sharma = {
 ---
 <div align="center">
 
-| 🏆 Experience | 📋 Details |
+| 🏆 Experience | 📋 Detail |
 |---|---|
 | 🇮🇳 **Smart India Hackathon 2025** | National Finalist — Top 75 of 950+ teams (Top 8%) • Project Lead |
 | 🛡️ **SuRaksha Hackathon** | Shortlisted for Prototype Phase (top 135) — DocuScan • Project Lead |
