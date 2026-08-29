@@ -1,72 +1,46 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Richaa%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20in%20the%20Making%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-</div>
 
----
-### 👩‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00D9FF&height=200&section=header&text=Richa%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Data&descAlignY=58&descSize=18" width="100%"/>
 
-```cpp
-Richaa sharma = {
-    .role     = "CSE Undergrad @ VIT Bhopal",
-    .spec     = "Cybersecurity & Digital Forensics",
-    .building = "DocuScan — Real-time document forgery detection",
-    .status   = "Always building something"
-};
-```
----
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Curious+mind.+Code+in+progress.;Exploring+technology%2C+one+project+at+a+time.;CSE+%7C+Cybersecurity+%26+Digital+Forensics" alt="Typing SVG" />
 
-| 🏆 Experience | 📋 Details |
-|---|---|
-| 🇮🇳 **Smart India Hackathon 2025** | National Finalist — Top 75 of 950+ teams • Project Lead |
-| 🛡️ **SuRaksha Hackathon** | Shortlisted for Prototype Phase (top 135) — DocuScan • Project Lead |
-| 🔐 **VIT Bhopal** | B.Tech CSE — Cybersecurity & Digital Forensics, 2024–2028 |
-| 🌐 **Certifications** | NPTEL • VITyarthi • HackerRank • coursera|
+<br/>
+
+<a href="https://www.linkedin.com/in/richaa-sharma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:richaa.builds@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/sharmarichaa"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 👩‍💻 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-**🔍 DocuScan**
-`C++` `ML` `ZKP` `Circom/SnarkJS`
+I'm a CSE undergraduate at VIT Bhopal, specializing in **Cybersecurity & Digital Forensics**. I'm interested in how software, data, and security intersect to solve real-world problems, and I build that out through hackathons, ML projects, and daily C++/DSA practice.
 
-Real-time document forgery detection with privacy-preserving verification. Built for Canara Bank loan fraud detection. C++ forensics engine processes documents in under 200ms with Trust Score 0–100.
-
-🏅 *SuRaksha Hackathon — Shortlisted(top 135)*
-
-</td>
-<td width="50%">
-
-**🌿 e-FRA Atlas**
-`Django` `ReactJS` `PostgreSQL` `PostGIS`
-
-AI-powered Forest Rights Act monitoring platform for tribal communities. WebGIS-based decision support system with OCR digitization and automated welfare linkage.
-
-🏅 *Smart India Hackathon 2025 — National Finalist(top 75)*
+🔭 &nbsp;Currently building **JalRakshak** — a water-quality monitoring platform for SIH 2026
+<br/>
+🛡️ &nbsp;Focused on digital forensics, applied ML, and privacy-preserving systems
+<br/>
+🌱 &nbsp;Deepening my DBMS and networking fundamentals
+<br/>
+💬 &nbsp;Ask me about C++, forensic tooling, or hackathon war stories
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="40%" valign="top">
 
-**🗣️ Hate Speech Detection**
-`Python` `NLP` `ML`
-
-Machine learning model to detect and classify hate speech in text data using NLP techniques.
-
-</td>
-<td width="50%">
-
-**❤️ Heart Mortality Prediction**
-`Python` `Scikit-learn` `Data Analysis`
-
-Predictive model for heart disease mortality risk using clinical dataset analysis and ML classification.
+|  |  |
+|---|---|
+| 🎓 **University** | VIT Bhopal |
+| 🎯 **Specialization** | Cybersecurity & Digital Forensics |
+| 📅 **Graduating** | 2028 |
+| 🚀 **Building** | JalRakshak |
+| 🏆 **Best Result** | SIH 2025 — Top 75 / 950+ |
+| 🌍 **Goal** | Senior MNC role → running an NGO |
 
 </td>
 </tr>
@@ -74,26 +48,159 @@ Predictive model for heart disease mortality risk using clinical dataset analysi
 
 ---
 
-### 🛠️ Tech Stack
+## 🏅 Achievements
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Event | Result | Role |
+|---|---|---|
+| 🇮🇳 Smart India Hackathon 2025 | National Finalist — Top 75 of 950+ teams | Project Lead |
+| 🛡️ SuRaksha Hackathon | Shortlisted for Prototype Phase — Top 135 | Project Lead |
 
 ---
 
-### 📬 Connect
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 DocuScan
+\`C++\` \`ML\` \`OpenCV\` \`ZKP\` \`Circom\` \`SnarkJS\`
+
+Real-time document forgery detection system for loan fraud detection. Uses a C++ forensic engine for pixel-level document analysis and generates a Trust Score (0–100) with privacy-preserving verification via Zero-Knowledge Proofs.
+
+🏅 SuRaksha Hackathon — Top 135 &nbsp;·&nbsp; 👩‍💻 Project Lead
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 JalRakshak
+\`Python\` \`ML\` \`GIS\` \`PostgreSQL\` \`PostGIS\`
+
+A centralized platform for monitoring and analyzing heavy-metal pollution in water. Processes verified water-quality data, calculates pollution indices, identifies major pollutants and visualizes hotspots and trends using GIS.
+
+🚧 Currently Building — SIH 2026
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌳 e-FRA Atlas
+\`Django\` \`ReactJS\` \`PostgreSQL\` \`PostGIS\` \`OCR\`
+
+AI-powered Forest Rights Act monitoring platform designed to support tribal communities. Includes WebGIS-based decision support, OCR digitization and automated welfare-linkage capabilities.
+
+🏅 Smart India Hackathon 2025 — Top 75 &nbsp;·&nbsp; 👩‍💻 Project Lead
+
+</td>
+<td width="50%" valign="top">
+
+### 🎣 Phishing Detection System
+\`Python\` \`ML\` \`Cybersecurity\` \`NLP\`
+
+A phishing detection system developed for a college Project Exhibition to identify potentially malicious content and distinguish phishing attempts from legitimate communication using machine-learning techniques.
+
+🏫 College Project Exhibition
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ Hate Speech Detection
+\`Python\` \`NLP\` \`Machine Learning\`
+
+Machine-learning based system for detecting and classifying hate speech in textual data using Natural Language Processing techniques.
+
+🤖 Machine Learning Project
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 LeetCode & DSA
+\`C++\` \`Data Structures\` \`Algorithms\`
+
+A growing collection of algorithmic problem-solving practice in C++, focused on building a strong foundation in Data Structures and Algorithms.
+
+📈 Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richaa-sharma)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richaa.builds@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmarichaa)
+**Languages**
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+
+**Security & Networking**
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/SIEM-111827?style=for-the-badge&logoColor=white" alt="SIEM"/>
+<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logoColor=white" alt="Networking"/>
+<img src="https://img.shields.io/badge/OSI_Model-0A66C2?style=for-the-badge&logoColor=white" alt="OSI Model"/>
+
+**Systems & Data**
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logoColor=white" alt="Machine Learning"/>
+
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logoColor=white" alt="Tesseract OCR"/>
+<img src="https://img.shields.io/badge/Circom-111827?style=for-the-badge&logoColor=white" alt="Circom"/>
+<img src="https://img.shields.io/badge/SnarkJS-111827?style=for-the-badge&logoColor=white" alt="SnarkJS"/>
 
 </div>
 
+---
+
+## 📜 Certifications
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Foundations of Cybersecurity | Google | Jun 2026 |
+| The Bits and Bytes of Computer Networking | Google | Jul 2026 |
+| Cybersecurity and Privacy | NPTEL | Oct 2025 |
+| Blockchain and its Applications | NPTEL | Jan 2026 |
+| Fundamentals of AI and ML | VITyarthi | Dec 2024 |
+| Python Essentials | VITyarthi | Apr 2025 |
+| Open Source Software | VITyarthi | Apr 2026 |
+| Python (Basic) | HackerRank | Apr 2025 |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect
+
+<a href="https://www.linkedin.com/in/richaa-sharma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:richaa.builds@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/sharmarichaa"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0F2027&height=100&section=footer" width="100%"/>
+
 </div>
