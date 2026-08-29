@@ -16,31 +16,89 @@
 
 ## 👩‍💻 About Me
 
+```json
+{
+  "name": "Richa Sharma",
+  "role": "CSE Undergrad · Cybersecurity & Digital Forensics",
+  "degree": "B.Tech CSE — VIT Bhopal (2024–2028)",
+  "focus": ["Digital Forensics", "Applied ML", "Privacy-Preserving Systems"],
+  "languages": ["C++", "Python", "Java"],
+  "open_source": true,
+  "email": "richaa.builds@gmail.com"
+}
+```
+
+```
+$ ./status --now
+  Building   → JalRakshak (water-quality monitoring)
+  Learning   → DBMS internals & network fundamentals
+  Exploring  → Forensic tooling & privacy-preserving verification
+  Open to    → Cybersecurity collabs & interesting ML problems
+```
+
+Hi! I'm **Richa** — a CSE undergrad at VIT Bhopal who likes turning security problems into working code. I care about clean forensic tooling, solid DSA fundamentals, and building things that actually get used.
+
+---
+
+## 🚀 Featured Projects
+
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-I'm a CSE undergraduate at VIT Bhopal, specializing in **Cybersecurity & Digital Forensics**. I'm interested in how software, data, and security intersect to solve real-world problems, and I build that out through hackathons, ML projects, and daily C++/DSA practice.
+### 🔍 DocuScan
+`C++` `ML` `OpenCV` `ZKP` `Circom` `SnarkJS`
 
-🔭 &nbsp;Currently building **JalRakshak** — a water-quality monitoring platform for SIH 2026
-<br/>
-🛡️ &nbsp;Focused on digital forensics, applied ML, and privacy-preserving systems
-<br/>
-🌱 &nbsp;Deepening my DBMS and networking fundamentals
-<br/>
-💬 &nbsp;Ask me about C++, forensic tooling, or hackathon war stories
+Real-time document forgery detection system for loan fraud detection. Uses a C++ forensic engine for pixel-level document analysis and generates a Trust Score (0–100) with privacy-preserving verification via Zero-Knowledge Proofs.
+
+🏅 SuRaksha Hackathon — Top 135 &nbsp;·&nbsp; 👩‍💻 Project Lead
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-|  |  |
-|---|---|
-| 🎓 **University** | VIT Bhopal |
-| 🎯 **Specialization** | Cybersecurity & Digital Forensics |
-| 📅 **Graduating** | 2028 |
-| 🚀 **Building** | JalRakshak |
-| 🏆 **Best Result** | SIH 2025 — Top 75 / 950+ |
-| 🌍 **Goal** | Senior MNC role → running an NGO |
+### 🌿 JalRakshak
+`Python` `ML` `GIS` `PostgreSQL` `PostGIS`
+
+A centralized platform for monitoring and analyzing heavy-metal pollution in water. Processes verified water-quality data, calculates pollution indices, identifies major pollutants and visualizes hotspots and trends using GIS.
+
+🚧 Currently Building — SIH 2026
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌳 e-FRA Atlas
+`Django` `ReactJS` `PostgreSQL` `PostGIS` `OCR`
+
+AI-powered Forest Rights Act monitoring platform designed to support tribal communities. Includes WebGIS-based decision support, OCR digitization and automated welfare-linkage capabilities.
+
+🏅 Smart India Hackathon 2025 — Top 75 &nbsp;·&nbsp; 👩‍💻 Project Lead
+
+</td>
+<td width="50%" valign="top">
+
+### 🎣 Phishing Detection System
+`Python` `ML` `Cybersecurity` `NLP`
+
+A phishing detection system developed for a college Project Exhibition to identify potentially malicious content and distinguish phishing attempts from legitimate communication using machine-learning techniques.
+
+🏫 College Project Exhibition
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ Hate Speech Detection
+`Python` `NLP` `Machine Learning`
+
+Machine-learning based system for detecting and classifying hate speech in textual data using Natural Language Processing techniques.
+
+🤖 Machine Learning Project
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -54,79 +112,6 @@ I'm a CSE undergraduate at VIT Bhopal, specializing in **Cybersecurity & Digital
 |---|---|---|
 | 🇮🇳 Smart India Hackathon 2025 | National Finalist — Top 75 of 950+ teams | Project Lead |
 | 🛡️ SuRaksha Hackathon | Shortlisted for Prototype Phase — Top 135 | Project Lead |
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 DocuScan
-\`C++\` \`ML\` \`OpenCV\` \`ZKP\` \`Circom\` \`SnarkJS\`
-
-Real-time document forgery detection system for loan fraud detection. Uses a C++ forensic engine for pixel-level document analysis and generates a Trust Score (0–100) with privacy-preserving verification via Zero-Knowledge Proofs.
-
-🏅 SuRaksha Hackathon — Top 135 &nbsp;·&nbsp; 👩‍💻 Project Lead
-
-</td>
-<td width="50%" valign="top">
-
-### 🌿 JalRakshak
-\`Python\` \`ML\` \`GIS\` \`PostgreSQL\` \`PostGIS\`
-
-A centralized platform for monitoring and analyzing heavy-metal pollution in water. Processes verified water-quality data, calculates pollution indices, identifies major pollutants and visualizes hotspots and trends using GIS.
-
-🚧 Currently Building — SIH 2026
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌳 e-FRA Atlas
-\`Django\` \`ReactJS\` \`PostgreSQL\` \`PostGIS\` \`OCR\`
-
-AI-powered Forest Rights Act monitoring platform designed to support tribal communities. Includes WebGIS-based decision support, OCR digitization and automated welfare-linkage capabilities.
-
-🏅 Smart India Hackathon 2025 — Top 75 &nbsp;·&nbsp; 👩‍💻 Project Lead
-
-</td>
-<td width="50%" valign="top">
-
-### 🎣 Phishing Detection System
-\`Python\` \`ML\` \`Cybersecurity\` \`NLP\`
-
-A phishing detection system developed for a college Project Exhibition to identify potentially malicious content and distinguish phishing attempts from legitimate communication using machine-learning techniques.
-
-🏫 College Project Exhibition
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗣️ Hate Speech Detection
-\`Python\` \`NLP\` \`Machine Learning\`
-
-Machine-learning based system for detecting and classifying hate speech in textual data using Natural Language Processing techniques.
-
-🤖 Machine Learning Project
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 LeetCode & DSA
-\`C++\` \`Data Structures\` \`Algorithms\`
-
-A growing collection of algorithmic problem-solving practice in C++, focused on building a strong foundation in Data Structures and Algorithms.
-
-📈 Problem Solving
-
-</td>
-</tr>
-</table>
 
 ---
 
