@@ -36,7 +36,7 @@ $ ./status --now
   Open to    → Cybersecurity collabs & interesting ML problems
 ```
 
-Hi! I'm **Richa** — a CSE undergrad at VIT Bhopal who likes turning security problems into working code. I care about clean forensic tooling, solid DSA fundamentals, and building things that actually get used.
+Hi! I'm **Richa**, a CSE undergrad at VIT Bhopal who likes turning security problems into working code. I care about clean forensic tooling, solid DSA fundamentals, and building things that actually get used.
 
 ---
 
