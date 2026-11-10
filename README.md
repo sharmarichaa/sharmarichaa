@@ -21,8 +21,8 @@
   "name": "Richa Sharma",
   "role": "CSE Undergrad · Cybersecurity & Digital Forensics",
   "degree": "B.Tech CSE — VIT Bhopal (2024–2028)",
-  "focus": ["Digital Forensics", "Applied ML", "Privacy-Preserving Systems"],
-  "languages": ["C++", "Python", "Java"],
+  "focus": ["System architecture", "software engineering", "Privacy-Preserving Systems"],
+  "languages": ["C++", "Python", "C"],
   "open_source": true,
   "email": "richaa.builds@gmail.com"
 }
@@ -30,13 +30,12 @@
 
 ```
 $ ./status --now
-  Building   → JalRakshak (water-quality monitoring)
-  Learning   → DBMS internals & network fundamentals
-  Exploring  → Forensic tooling & privacy-preserving verification
-  Open to    → Cybersecurity collabs & interesting ML problems
+  Building   → NetTrace 
+  Learning   → network fundamentals and Software vulnerability 
+  Exploring  → networking tools & privacy-preserving verification
 ```
 
-Hi! I'm **Richa**, a CSE undergrad at VIT Bhopal who likes turning security problems into working code. I care about clean forensic tooling, solid DSA fundamentals, and building things that actually get used.
+Hi! I'm **Richa**, a CSE undergrad at VIT who likes turning security problems into working code. I care about Networking fundamentals, solid DSA fundamentals, and building things that actually get used.
 
 ---
 
@@ -56,12 +55,11 @@ Real-time document forgery detection system for loan fraud detection. Uses a C++
 </td>
 <td width="50%" valign="top">
 
-### 🌿 JalRakshak
-`Python` `ML` `GIS` `PostgreSQL` `PostGIS`
+### 🌿 NetTrace
+`C++` `CMake` `g++` `WireShark` 
 
-A centralized platform for monitoring and analyzing heavy-metal pollution in water. Processes verified water-quality data, calculates pollution indices, identifies major pollutants and visualizes hotspots and trends using GIS.
+a C++17 packet analyzer that parses Ethernet, IPv4, TCP, UDP, ICMP and DNS from raw pcap files, and detects port scans, SYN floods and ICMP floods (validated against Wireshark and real nmap captures).
 
-🚧 Currently Building — SIH 2026
 
 </td>
 </tr>
@@ -168,9 +166,8 @@ Machine-learning based system for detecting and classifying hate speech in textu
 | Cybersecurity and Privacy | NPTEL | Oct 2025 |
 | Blockchain and its Applications | NPTEL | Jan 2026 |
 | Fundamentals of AI and ML | VITyarthi | Dec 2024 |
-| Python Essentials | VITyarthi | Apr 2025 |
+| Entrepreneurship | NPTEL | Oct 2026 |
 | Open Source Software | VITyarthi | Apr 2026 |
-| Python (Basic) | HackerRank | Apr 2025 |
 
 </div>
 
