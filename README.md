@@ -93,7 +93,6 @@ A phishing detection system developed for a college Project Exhibition to identi
 
 Machine-learning based system for detecting and classifying hate speech in textual data using Natural Language Processing techniques.
 
-🤖 Machine Learning Project
 
 </td>
 <td width="50%" valign="top">
